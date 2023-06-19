@@ -70,8 +70,8 @@
     });
     confirm_delete = (id) => {
         Swal.fire({
-            title: 'Are you sure?',
-            text: "You won't be able to revert this!",
+            title: 'Apa anda yakin?',
+            text: "Anda tidak akan bisa mengubahnya kembali!",
             icon: 'warning',
             showCancelButton: true,
             confirmButtonText: 'Yes'

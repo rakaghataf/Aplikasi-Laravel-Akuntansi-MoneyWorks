@@ -7,7 +7,7 @@
     <meta content="-" name="description" />
     <meta content="-" name="author" />
     <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/180px-Undip.png') }}">
     <link href="{{ asset('assets/libs/select2/css/select2.min.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('assets/libs/bootstrap-datepicker/css/bootstrap-datepicker.min.css') }}" rel="stylesheet" type="text/css">
     <link href="{{ asset('assets/libs/summernote/summernote-bs4.min.css') }}" rel="stylesheet" type="text/css" />
@@ -27,19 +27,19 @@
                 <div class="navbar-brand-box">
                     <a href="#" class="logo logo-dark">
                         <span class="logo-sm">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('180px-Undip.png') }}" alt="" height="30">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('180px-Undip.png') }}" alt="" height="30">
                         </span>
                     </a>
 
                     <a href="#" class="logo logo-light">
                         <span class="logo-sm">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('180px-Undip.png') }}" alt="" height="30">
                         </span>
                         <span class="logo-lg">
-                            <img src="{{ asset('lemon.png') }}" alt="" height="30">
+                            <img src="{{ asset('180px-Undip.png') }}" alt="" height="30">
                         </span>
                     </a>
                 </div>
@@ -87,7 +87,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
-                        2020 © Renandatta
+                        2023 © MoneyWorks
                     </div>
                 </div>
             </div>

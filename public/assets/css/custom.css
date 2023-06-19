@@ -1,6 +1,6 @@
 /* Custom Theme */
 body[data-topbar=dark] #page-topbar {
-    background-color: #282e3f;
+    background-color: #ff7724;
 }
 #page-topbar {
     -webkit-box-shadow: none;
